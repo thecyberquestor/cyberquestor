@@ -1,0 +1,170 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CYBERQUESTOR | System Root</title>
+    <link href="https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap" rel="stylesheet">
+    
+    <style>
+        :root {
+            --neon-green: #00ff41;
+            --neon-red: #ff003c;
+            --deep-purple: #1a0033;
+            --terminal-black: #050505;
+            --border-glow: #4d0099;
+        }
+
+        body {
+            background-color: var(--terminal-black);
+            background-image: radial-gradient(circle, var(--deep-purple) 0%, var(--terminal-black) 70%);
+            color: var(--neon-green);
+            font-family: 'Share Tech Mono', monospace;
+            margin: 0;
+            padding: 20px;
+            display: flex;
+            justify-content: center;
+            min-height: 100vh;
+        }
+
+        .terminal-window {
+            border: 2px solid var(--border-glow);
+            width: 100%;
+            max-width: 900px;
+            padding: 20px;
+            background: rgba(5, 5, 5, 0.9);
+            box-shadow: 0 0 30px rgba(77, 0, 153, 0.4), inset 0 0 10px rgba(0, 255, 65, 0.1);
+            position: relative;
+        }
+
+        /* Scanline Effect for that Hacker CRT look */
+        .terminal-window::before {
+            content: " ";
+            position: absolute;
+            top: 0; left: 0; bottom: 0; right: 0;
+            background: linear-gradient(rgba(18, 16, 16, 0) 50%, rgba(0, 0, 0, 0.25) 50%), 
+                        linear-gradient(90deg, rgba(255, 0, 0, 0.06), rgba(0, 255, 0, 0.02), rgba(0, 0, 255, 0.06));
+            background-size: 100% 2px, 3px 100%;
+            pointer-events: none;
+            z-index: 10;
+        }
+
+        header {
+            display: grid;
+            grid-template-columns: 80px 1fr 100px;
+            align-items: center;
+            border-bottom: 2px solid var(--neon-red);
+            padding-bottom: 15px;
+        }
+
+        .photo-slot {
+            width: 70px;
+            height: 70px;
+            border: 2px solid var(--neon-red);
+            overflow: hidden;
+            box-shadow: 0 0 10px var(--neon-red);
+        }
+
+        .photo-slot img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            /* FILTER REMOVED: Your photo will now be in color */
+            filter: brightness(1.1) contrast(1.1); 
+        }
+
+        .site-title {
+            text-align: center;
+            font-size: 2.5rem;
+            text-transform: uppercase;
+            letter-spacing: 6px;
+            color: var(--neon-red);
+            text-shadow: 0 0 10px var(--neon-red);
+        }
+
+        .feedback-link {
+            text-align: right;
+            font-size: 0.9rem;
+            color: #888;
+            text-decoration: none;
+        }
+        .feedback-link:hover { color: var(--neon-green); }
+
+        nav {
+            display: grid;
+            grid-template-columns: repeat(5, 1fr);
+            border-bottom: 1px solid var(--border-glow);
+            margin: 15px 0 30px 0;
+        }
+
+        nav a {
+            color: var(--neon-green);
+            text-decoration: none;
+            padding: 12px;
+            text-align: center;
+            border-right: 1px solid var(--border-glow);
+            transition: 0.2s;
+            text-transform: lowercase;
+        }
+
+        nav a:hover {
+            background: var(--neon-red);
+            color: white;
+            box-shadow: 0 0 15px var(--neon-red);
+        }
+
+        .content-area h2 {
+            color: var(--neon-red);
+            font-size: 1.8rem;
+            margin-bottom: 15px;
+            text-shadow: 0 0 5px var(--neon-red);
+        }
+
+        .keyword { color: #fff; border-bottom: 1px dashed var(--neon-green); }
+
+        .cursor {
+            display: inline-block;
+            width: 12px;
+            height: 24px;
+            background: var(--neon-green);
+            animation: blink 0.8s infinite;
+            vertical-align: middle;
+            box-shadow: 0 0 10px var(--neon-green);
+        }
+
+        @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
+    </style>
+</head>
+<body>
+
+<div class="terminal-window">
+    <header>
+        <div class="photo-slot">
+            <img src="{% static 'images/CyberQuestor.png' %}" alt="[ROOT_USER]">
+        </div>
+        <div class="site-title">CYBERQUESTOR</div>
+        <div class="feedback-link">./feedback.sh</div>
+    </header>
+
+    <nav>
+        <a href="/">home</a>
+        <a href="https://blog.cyberquestor.com">blogs</a>
+        <a href="https://github.cyberquestor.com">github</a>
+        <a href="/projects">projects</a>
+        <a href="/other">other</a>
+    </nav>
+
+    <main class="content-area">
+        <h2>> cat intro.txt</h2>
+        <p>
+            This website has some info related to 
+            <span class="keyword">cybersecurity</span> / 
+            <span class="keyword">offensive</span> / 
+            <span class="keyword">n/ws</span><span class="cursor"></span>
+        </p>
+    </main>
+</div>
+
+</body>
+</html>

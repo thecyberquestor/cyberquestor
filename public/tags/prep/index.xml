@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prep on thecyberquestor</title>
+    <link>http://localhost:1313/tags/prep/</link>
+    <description>Recent content in Prep on thecyberquestor</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/prep/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>oscp prep strategy</title>
+      <link>http://localhost:1313/oscp/prep-strategy/</link>
+      <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/oscp/prep-strategy/</guid>
+      <description>&lt;h1 id=&#34;prep-strategy&#34;&gt;prep strategy&lt;/h1&gt;&#xA;&lt;p&gt;What to study, in what order, and why. Full breakdown coming — here&amp;rsquo;s the TL;DR.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-ordered-stack&#34;&gt;the ordered stack&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Foundations&lt;/strong&gt; — Linux CLI, networking basics, bash + Python&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Web&lt;/strong&gt; — OWASP top 10, Burp Suite, PortSwigger labs&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Enumeration&lt;/strong&gt; — nmap, gobuster, methodology obsession&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Exploitation&lt;/strong&gt; — public exploits, Metasploit (and then &lt;em&gt;without&lt;/em&gt; Metasploit)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Privilege escalation&lt;/strong&gt; — Linux &lt;em&gt;and&lt;/em&gt; Windows. Separately. Deeply.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Active Directory&lt;/strong&gt; — Kerberos attacks, BloodHound, lateral movement&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Buffer overflows&lt;/strong&gt; — not on the modern exam, but worth understanding&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;the-8020&#34;&gt;the 80/20&lt;/h2&gt;&#xA;&lt;p&gt;If you only do one thing: &lt;strong&gt;own a lot of boxes, take obsessive notes&lt;/strong&gt;. PG Practice + HTB retired boxes got me further than any course.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

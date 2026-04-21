@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reflection on thecyberquestor</title>
+    <link>http://localhost:1313/tags/reflection/</link>
+    <description>Recent content in Reflection on thecyberquestor</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/reflection/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>what I&#39;d do differently</title>
+      <link>http://localhost:1313/oscp/mistakes/</link>
+      <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/oscp/mistakes/</guid>
+      <description>&lt;h1 id=&#34;what-id-do-differently&#34;&gt;what I&amp;rsquo;d do differently&lt;/h1&gt;&#xA;&lt;p&gt;Honest retrospective. The stuff I regret and the stuff I&amp;rsquo;d keep.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-id-change&#34;&gt;what I&amp;rsquo;d change&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Started PG Practice sooner&lt;/strong&gt; — I did too much TryHackMe early on&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Built my methodology doc earlier&lt;/strong&gt; — I was 2 months in before I realized I was solving the same enum steps from scratch every time&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Did more Active Directory&lt;/strong&gt; — the AD set on the exam surprised me&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Taken better notes on failed attempts&lt;/strong&gt; — &amp;ldquo;what didn&amp;rsquo;t work&amp;rdquo; is as valuable as &amp;ldquo;what did&amp;rdquo;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;what-id-keep&#34;&gt;what I&amp;rsquo;d keep&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;IppSec obsessively&lt;/strong&gt; — worth every hour&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Explaining things out loud&lt;/strong&gt; — the rubber duck method legit works&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Taking real breaks&lt;/strong&gt; — burnout is real&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Full post coming with specific anti-patterns and &amp;ldquo;if I could email past-me&amp;rdquo; advice.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

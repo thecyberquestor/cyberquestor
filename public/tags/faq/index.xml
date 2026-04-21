@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Faq on thecyberquestor</title>
+    <link>http://localhost:1313/tags/faq/</link>
+    <description>Recent content in Faq on thecyberquestor</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/faq/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>oscp faq</title>
+      <link>http://localhost:1313/oscp/faq/</link>
+      <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/oscp/faq/</guid>
+      <description>&lt;h1 id=&#34;faq&#34;&gt;faq&lt;/h1&gt;&#xA;&lt;p&gt;The questions I see asked in r/oscp and the OffSec Discord every single week. Full answers coming — short versions below.&lt;/p&gt;&#xA;&lt;h2 id=&#34;is-the-pwk-course-enough&#34;&gt;is the PWK course enough?&lt;/h2&gt;&#xA;&lt;p&gt;No. It&amp;rsquo;s necessary but not sufficient. You need lab time on PG, HTB, or similar.&lt;/p&gt;&#xA;&lt;h2 id=&#34;how-long-should-i-prep&#34;&gt;how long should I prep?&lt;/h2&gt;&#xA;&lt;p&gt;Most people: 3-6 months of consistent daily practice. Depends entirely on your starting level.&lt;/p&gt;&#xA;&lt;h2 id=&#34;should-i-learn-metasploit&#34;&gt;should I learn Metasploit?&lt;/h2&gt;&#xA;&lt;p&gt;Yes, but also learn to do things without it. The exam limits Metasploit usage.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

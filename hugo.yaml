@@ -49,6 +49,10 @@ languages:
           name: writeups
           url: /writeups
           weight: 10
+        - identifier: oscp
+          name: oscp
+          url: /oscp
+          weight: 20
         - identifier: tools
           name: tools
           url: /tools

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Resources on thecyberquestor</title>
+    <link>http://localhost:1313/tags/resources/</link>
+    <description>Recent content in Resources on thecyberquestor</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/resources/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>oscp resources</title>
+      <link>http://localhost:1313/oscp/resources/</link>
+      <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/oscp/resources/</guid>
+      <description>&lt;h1 id=&#34;resources&#34;&gt;resources&lt;/h1&gt;&#xA;&lt;p&gt;The curated list. Full annotated version coming — this is the skeleton.&lt;/p&gt;&#xA;&lt;h2 id=&#34;labs-practice-targets&#34;&gt;labs (practice targets)&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;HackTheBox&lt;/strong&gt; — retired boxes with writeups&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;OffSec Proving Grounds&lt;/strong&gt; — closest thing to OSCP feel&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;TryHackMe&lt;/strong&gt; — structured learning paths for beginners&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Vulnhub&lt;/strong&gt; — free, downloadable VMs&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;courses&#34;&gt;courses&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;PWK (OSCP course itself)&lt;/strong&gt; — mandatory, but not sufficient&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;TCM Security&amp;rsquo;s PEH&lt;/strong&gt; — great foundation&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;IppSec&amp;rsquo;s YouTube&lt;/strong&gt; — free, better than most paid courses&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;cheatsheets--references&#34;&gt;cheatsheets &amp;amp; references&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;HackTricks&lt;/strong&gt; — the bible&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;PayloadsAllTheThings&lt;/strong&gt; — for when you forget a payload (you will)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;GTFOBins&lt;/strong&gt; — Linux privesc lookup&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;LOLBAS&lt;/strong&gt; — Windows equivalent&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;books&#34;&gt;books&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;em&gt;The Web Application Hacker&amp;rsquo;s Handbook&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;RTFM (Red Team Field Manual)&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;Penetration Testing&lt;/em&gt; by Georgia Weidman&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;community&#34;&gt;community&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;OffSec Discord&lt;/li&gt;&#xA;&lt;li&gt;r/oscp subreddit&lt;/li&gt;&#xA;&lt;li&gt;NetSecFocus Slack&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Full annotated list (what each is good for, when to use it) drops soon.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

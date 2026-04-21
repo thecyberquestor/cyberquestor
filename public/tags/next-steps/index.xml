@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Next-Steps on thecyberquestor</title>
+    <link>http://localhost:1313/tags/next-steps/</link>
+    <description>Recent content in Next-Steps on thecyberquestor</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/next-steps/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>post-oscp</title>
+      <link>http://localhost:1313/oscp/post-oscp/</link>
+      <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/oscp/post-oscp/</guid>
+      <description>&lt;h1 id=&#34;post-oscp&#34;&gt;post-oscp&lt;/h1&gt;&#xA;&lt;p&gt;You passed. Now what? The cert is a starting line, not a finish line. Full guide coming — rough directions below.&lt;/p&gt;&#xA;&lt;h2 id=&#34;directions-to-go&#34;&gt;directions to go&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Web deep-dive&lt;/strong&gt; → OSWE, PortSwigger Web Security Academy&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Red teaming&lt;/strong&gt; → CRTO (Certified Red Team Operator)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;AD mastery&lt;/strong&gt; → CRTP / CRTE from Altered Security&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Binary exploitation&lt;/strong&gt; → OSED&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Bug bounty&lt;/strong&gt; → HackerOne, Bugcrowd, Intigriti&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Research&lt;/strong&gt; → pick a CVE, write your own PoC&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;The honest answer: &lt;strong&gt;stop chasing certs for a while and actually do the work&lt;/strong&gt;. Hunt bugs, contribute to open source tools, write up what you find.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

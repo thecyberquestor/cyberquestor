@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Exam on thecyberquestor</title>
+    <link>http://localhost:1313/tags/exam/</link>
+    <description>Recent content in Exam on thecyberquestor</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/exam/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>oscp exam tips</title>
+      <link>http://localhost:1313/oscp/exam-tips/</link>
+      <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/oscp/exam-tips/</guid>
+      <description>&lt;h1 id=&#34;exam-tips&#34;&gt;exam tips&lt;/h1&gt;&#xA;&lt;p&gt;The day-of playbook. Full post coming — here&amp;rsquo;s the essentials.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-night-before&#34;&gt;the night before&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Sleep. Do not cram.&lt;/li&gt;&#xA;&lt;li&gt;Prep your environment — notes app, template for the report, screenshot tool ready.&lt;/li&gt;&#xA;&lt;li&gt;Have snacks, water, coffee within arm&amp;rsquo;s reach.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;the-exam-itself&#34;&gt;the exam itself&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;First 30 min&lt;/strong&gt;: nmap full TCP + initial UDP on every target, start them in parallel.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Buffer overflow (if applicable)&lt;/strong&gt;: knock it out early while your brain is fresh.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Rotate targets&lt;/strong&gt; — stuck for an hour? Move on. Come back with fresh eyes.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Document as you go&lt;/strong&gt; — not at the end. Screenshot everything.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Take breaks&lt;/strong&gt; — 10 minute walks save your brain.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;the-report&#34;&gt;the report&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Don&amp;rsquo;t skip it. Failing the report = failing the exam.&lt;/li&gt;&#xA;&lt;li&gt;Use the OffSec template. Don&amp;rsquo;t be clever.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Full post includes my actual time breakdown, meal schedule, and what I did when I almost panicked at hour 12.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Journey on thecyberquestor</title>
+    <link>http://localhost:1313/tags/journey/</link>
+    <description>Recent content in Journey on thecyberquestor</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/journey/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>my oscp journey</title>
+      <link>http://localhost:1313/oscp/my-journey/</link>
+      <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/oscp/my-journey/</guid>
+      <description>&lt;h1 id=&#34;my-journey&#34;&gt;my journey&lt;/h1&gt;&#xA;&lt;p&gt;A timeline of how I got from &amp;ldquo;what&amp;rsquo;s nmap&amp;rdquo; to OSCP+ certified. The full post is coming soon — it&amp;rsquo;s long and I want to do it justice.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-rough-outline&#34;&gt;the rough outline&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Phase 1: The basics&lt;/strong&gt; — Linux, networking, bash. No hacking yet.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Phase 2: First boxes&lt;/strong&gt; — TryHackMe rooms, easy HTB machines, lots of pain&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Phase 3: Structured prep&lt;/strong&gt; — PWK course, PG Practice, methodology building&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Phase 4: The grind&lt;/strong&gt; — 3+ months of daily boxes, note-taking obsession&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Phase 5: The exam&lt;/strong&gt; — what actually happened&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Phase 6: Reflection&lt;/strong&gt; — what I&amp;rsquo;d keep, what I&amp;rsquo;d change&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Full writeup coming — &lt;a href=&#34;http://localhost:1313/index.xml&#34;&gt;subscribe&lt;/a&gt; or follow on &lt;a href=&#34;https://medium.com/@cyberquestor&#34;&gt;Medium&lt;/a&gt; to catch it.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

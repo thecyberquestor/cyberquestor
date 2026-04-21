@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>your-handle</title>
+    <title>thecyberquestor</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on your-handle</description>
+    <description>Recent content on thecyberquestor</description>
     <generator>Hugo</generator>
-    <language>en</language>
+    <language>en-us</language>
     <lastBuildDate>Mon, 20 Apr 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -20,22 +20,14 @@
       <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;OSCP+ certified. Offensive security practitioner based in Charlotte, NC.&lt;/p&gt;
-&lt;p&gt;Currently grinding Hack The Box, poking at CVEs, and writing about it here.&lt;/p&gt;
-&lt;p&gt;Reach me: &lt;a href=&#34;mailto:you@yourdomain.tld&#34;&gt;email&lt;/a&gt; · &lt;a href=&#34;http://localhost:1313/pgp.asc&#34;&gt;PGP key&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;OSCP+ certified. Offensive security practitioner based in Charlotte, NC.&lt;/p&gt;&#xA;&lt;p&gt;Currently grinding Hack The Box, poking at CVEs, and writing about it here.&lt;/p&gt;&#xA;&lt;p&gt;Reach me: &lt;a href=&#34;mailto:you@yourdomain.tld&#34;&gt;email&lt;/a&gt; · &lt;a href=&#34;http://localhost:1313/pgp.asc&#34;&gt;PGP key&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>now</title>
       <link>http://localhost:1313/now/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/now/</guid>
-      <description>&lt;p&gt;Last updated: April 2026&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Working through the HTB Pro Labs&lt;/li&gt;
-&lt;li&gt;Writing a small recon automation tool in Go&lt;/li&gt;
-&lt;li&gt;Reading &amp;ldquo;A Bug Hunter&amp;rsquo;s Diary&amp;rdquo;&lt;/li&gt;
-&lt;li&gt;Planning to submit my first BSides CFP&lt;/li&gt;
-&lt;/ul&gt;</description>
+      <description>&lt;p&gt;Last updated: April 2026&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Working through the HTB Pro Labs&lt;/li&gt;&#xA;&lt;li&gt;Writing a small recon automation tool in Go&lt;/li&gt;&#xA;&lt;li&gt;Reading &amp;ldquo;A Bug Hunter&amp;rsquo;s Diary&amp;rdquo;&lt;/li&gt;&#xA;&lt;li&gt;Planning to submit my first BSides CFP&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>

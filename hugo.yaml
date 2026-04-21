@@ -1,77 +1,63 @@
 baseURL: "https://cyberquestor.com/"
-title: "your-handle"
-theme: "PaperMod"
+languageCode: "en-us"
+title: "thecyberquestor"
+theme: "terminal"
+paginate: 5
 
 enableRobotsTXT: true
-buildDrafts: false
-buildFuture: false
-pygmentsUseClasses: true
-
-minify:
-  disableXML: true
-  minifyOutput: true
 
 params:
-  env: production
-  title: "your-handle"
-  description: "Offensive security notes, writeups, and experiments."
-  author: "Your Name"
-  defaultTheme: dark
-  disableThemeToggle: false
-  ShowReadingTime: true
-  ShowShareButtons: false
-  ShowPostNavLinks: true
-  ShowBreadCrumbs: true
-  ShowCodeCopyButtons: true
-  ShowRssButtonInSectionTermList: true
-  ShowToc: true
-  TocOpen: false
+  contentTypeName: "writeups"
+  themeColor: "red"
+  showMenuItems: 4
+  showLanguageSelector: false
+  fullWidthTheme: false
+  centerTheme: true
+  showFullContent: false
+  showDate: true
+  dateFormat: "2006-01-02"
+  showReadingTime: true
+  Toc: true
+  TocTitle: "Table of Contents"
+  hideFooter: false
+  subtitle: "OSCP+ | offensive security | writeups, CVEs, experiments"
 
-  homeInfoParams:
-    Title: "whoami"
-    Content: >
-      OSCP+ certified. I break things and write about it.
-      Writeups, CVE breakdowns, and random offensive security experiments.
+languages:
+  en:
+    languageName: "English"
+    title: "thecyberquestor"
+    subtitle: "OSCP+ | offensive security | writeups, CVEs, experiments"
+    owner: "thecyberquestor"
+    keywords: "cybersecurity, oscp, offensive security, writeups, ctf"
+    copyright: ""
+    menuMore: "Show more"
+    readMore: "Read more"
+    readOtherPosts: "Read other posts"
+    newerPosts: "Newer posts"
+    olderPosts: "Older posts"
+    missingContentMessage: "Page not found..."
+    missingBackButtonLabel: "Back to home page"
 
-  socialIcons:
-    - name: github
-      url: "https://github.com/yourusername"
-    - name: linkedin
-      url: "https://linkedin.com/in/yourusername"
-    - name: x
-      url: "https://x.com/yourusername"
-    - name: rss
-      url: "/index.xml"
+    params:
+      logo:
+        logoText: "$ cyberquestor"
+        logoHomeLink: "/"
 
-  assets:
-    disableHLJS: true
-    favicon: "/favicon.ico"
-
-menu:
-  main:
-    - identifier: writeups
-      name: writeups
-      url: /writeups/
-      weight: 10
-    - identifier: tools
-      name: tools
-      url: /tools/
-      weight: 20
-    - identifier: now
-      name: now
-      url: /now/
-      weight: 30
-    - identifier: about
-      name: about
-      url: /about/
-      weight: 40
-    - identifier: search
-      name: search
-      url: /search/
-      weight: 50
-
-outputs:
-  home:
-    - HTML
-    - RSS
-    - JSON  # needed for the search feature
+    menu:
+      main:
+        - identifier: writeups
+          name: writeups
+          url: /writeups
+          weight: 10
+        - identifier: tools
+          name: tools
+          url: /tools
+          weight: 20
+        - identifier: now
+          name: now
+          url: /now
+          weight: 30
+        - identifier: about
+          name: about
+          url: /about
+          weight: 40

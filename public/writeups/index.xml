@@ -1,19 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Writeups on thecyberquestor</title>
+    <title>thecyberquestor</title>
     <link>http://localhost:1313/writeups/</link>
-    <description>Recent content in Writeups on thecyberquestor</description>
+    <description>Recent content on thecyberquestor</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Apr 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/writeups/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hello world</title>
-      <link>http://localhost:1313/writeups/first-post/</link>
-      <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/writeups/first-post/</guid>
-      <description>&lt;p&gt;First post. Site is up. More coming.&lt;/p&gt;</description>
+      <title></title>
+      <link>http://localhost:1313/writeups/medium-archive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writeups/medium-archive/</guid>
+      <description>&lt;p&gt;-&amp;ndash;&lt;/p&gt;&#xA;&lt;p&gt;title: &amp;ldquo;archive: medium writeups&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;date: 2026-04-20&lt;/p&gt;&#xA;&lt;p&gt;draft: false&lt;/p&gt;&#xA;&lt;p&gt;tags: [&amp;ldquo;archive&amp;rdquo;, &amp;ldquo;medium&amp;rdquo;]&lt;/p&gt;&#xA;&lt;p&gt;-&amp;ndash;&lt;/p&gt;&#xA;&lt;p&gt;# archive&lt;/p&gt;&#xA;&lt;p&gt;Writeups previously published on Medium. Kept here for reference — new work goes on-site.&lt;/p&gt;&#xA;&lt;p&gt;## Selected&lt;/p&gt;&#xA;&lt;p&gt;- **[Writeup Title 1](&lt;a href=&#34;https://medium.com/PASTE-URL-HERE&#34;&gt;https://medium.com/PASTE-URL-HERE&lt;/a&gt;)**&lt;/p&gt;&#xA;&lt;p&gt;  *One-line description of what this writeup covers.*&lt;/p&gt;&#xA;&lt;p&gt;- **[Writeup Title 2](&lt;a href=&#34;https://medium.com/PASTE-URL-HERE&#34;&gt;https://medium.com/PASTE-URL-HERE&lt;/a&gt;)**&lt;/p&gt;&#xA;&lt;p&gt;  *One-line description.*&lt;/p&gt;&#xA;&lt;p&gt;- **[Writeup Title 3](&lt;a href=&#34;https://medium.com/PASTE-URL-HERE&#34;&gt;https://medium.com/PASTE-URL-HERE&lt;/a&gt;)**&lt;/p&gt;&#xA;&lt;p&gt;  *One-line description.*&lt;/p&gt;&#xA;&lt;p&gt;-&amp;ndash;&lt;/p&gt;&#xA;&lt;p&gt;Full list on [Medium →](&lt;a href=&#34;https://medium.com/@PLACEHOLDER&#34;&gt;https://medium.com/@PLACEHOLDER&lt;/a&gt;)&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

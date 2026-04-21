@@ -9,18 +9,18 @@
     <lastBuildDate>Mon, 20 Apr 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hello world</title>
-      <link>http://localhost:1313/writeups/first-post/</link>
-      <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/writeups/first-post/</guid>
-      <description>&lt;p&gt;First post. Site is up. More coming.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>about</title>
       <link>http://localhost:1313/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;OSCP+ certified. Offensive security practitioner based in Charlotte, NC.&lt;/p&gt;&#xA;&lt;p&gt;Currently grinding Hack The Box, poking at CVEs, and writing about it here.&lt;/p&gt;&#xA;&lt;p&gt;Reach me: &lt;a href=&#34;mailto:you@yourdomain.tld&#34;&gt;email&lt;/a&gt; · &lt;a href=&#34;http://localhost:1313/pgp.asc&#34;&gt;PGP key&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;-whoami&#34;&gt;$ whoami&lt;/h1&gt;&#xA;&lt;p&gt;&lt;code&gt;thecyberquestor&lt;/code&gt; — offensive security practitioner exploring every corner of the field.&lt;/p&gt;&#xA;&lt;p&gt;If it has a shell, I want to know how to break it, how to defend it, and how the attack chain fits together.&lt;/p&gt;&#xA;&lt;h1 id=&#34;interests&#34;&gt;interests&lt;/h1&gt;&#xA;&lt;p&gt;Currently poking at (in rough order of obsession):&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Linux privilege escalation&lt;/strong&gt; — kernel exploits, misconfigurations, the weird edge cases&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Active Directory &amp;amp; Windows&lt;/strong&gt; — Kerberos attacks, ACL abuse, lateral movement&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Web application security&lt;/strong&gt; — the classics never die: SSRF, deserialization, auth bypasses&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Red team tradecraft&lt;/strong&gt; — C2 frameworks, OPSEC, post-exploitation&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Malware analysis &amp;amp; reverse engineering&lt;/strong&gt; — reading what attackers write so I can write better&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Bug bounty / vuln research&lt;/strong&gt; — n-day analysis, PoC development, disclosure&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;creds&#34;&gt;creds&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;OSCP+&lt;/strong&gt; certified&lt;/li&gt;&#xA;&lt;li&gt;Active &lt;strong&gt;CTF competitor&lt;/strong&gt; — top rankings across platforms&lt;/li&gt;&#xA;&lt;li&gt;Public writeups below&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;what-this-site-is&#34;&gt;what this site is&lt;/h1&gt;&#xA;&lt;p&gt;A place to learn, practice, and share. Expect writeups of boxes, CTFs, and CVEs; tool experiments; and research notes — the kind of things I wish existed when I was starting out.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/writeups/medium-archive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writeups/medium-archive/</guid>
+      <description>&lt;p&gt;-&amp;ndash;&lt;/p&gt;&#xA;&lt;p&gt;title: &amp;ldquo;archive: medium writeups&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;date: 2026-04-20&lt;/p&gt;&#xA;&lt;p&gt;draft: false&lt;/p&gt;&#xA;&lt;p&gt;tags: [&amp;ldquo;archive&amp;rdquo;, &amp;ldquo;medium&amp;rdquo;]&lt;/p&gt;&#xA;&lt;p&gt;-&amp;ndash;&lt;/p&gt;&#xA;&lt;p&gt;# archive&lt;/p&gt;&#xA;&lt;p&gt;Writeups previously published on Medium. Kept here for reference — new work goes on-site.&lt;/p&gt;&#xA;&lt;p&gt;## Selected&lt;/p&gt;&#xA;&lt;p&gt;- **[Writeup Title 1](&lt;a href=&#34;https://medium.com/PASTE-URL-HERE&#34;&gt;https://medium.com/PASTE-URL-HERE&lt;/a&gt;)**&lt;/p&gt;&#xA;&lt;p&gt;  *One-line description of what this writeup covers.*&lt;/p&gt;&#xA;&lt;p&gt;- **[Writeup Title 2](&lt;a href=&#34;https://medium.com/PASTE-URL-HERE&#34;&gt;https://medium.com/PASTE-URL-HERE&lt;/a&gt;)**&lt;/p&gt;&#xA;&lt;p&gt;  *One-line description.*&lt;/p&gt;&#xA;&lt;p&gt;- **[Writeup Title 3](&lt;a href=&#34;https://medium.com/PASTE-URL-HERE&#34;&gt;https://medium.com/PASTE-URL-HERE&lt;/a&gt;)**&lt;/p&gt;&#xA;&lt;p&gt;  *One-line description.*&lt;/p&gt;&#xA;&lt;p&gt;-&amp;ndash;&lt;/p&gt;&#xA;&lt;p&gt;Full list on [Medium →](&lt;a href=&#34;https://medium.com/@PLACEHOLDER&#34;&gt;https://medium.com/@PLACEHOLDER&lt;/a&gt;)&lt;/p&gt;</description>
     </item>
     <item>
       <title>now</title>

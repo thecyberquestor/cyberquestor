@@ -9,7 +9,7 @@ enableRobotsTXT: true
 params:
   contentTypeName: "writeups"
   themeColor: "red"
-  showMenuItems: 4
+  showMenuItems: 10
   showLanguageSelector: false
   fullWidthTheme: false
   centerTheme: true

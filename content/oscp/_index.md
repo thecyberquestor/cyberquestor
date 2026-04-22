@@ -18,11 +18,17 @@ Everything I learned prepping for, taking, and passing OSCP+. No course upsells,
 
 
 
-\## guides
+\## featured
 
 
 
-\- \[my journey](/oscp/my-journey/) — timeline from day zero to pass
+\- \[\*\*the OSCP+ experience\*\*](/oscp/my-journey/) — the consolidated reference. Phases, frameworks, mistakes, mental models. The single page version of everything I learned.
+
+
+
+\## guides (coming soon)
+
+
 
 \- \[prep strategy](/oscp/prep-strategy/) — what to study, in what order, and why
 
@@ -40,9 +46,29 @@ Everything I learned prepping for, taking, and passing OSCP+. No course upsells,
 
 
 
+\## the story version
+
+
+
+For the long-form narrative of my two attempts — one failed, one passed — I wrote a three-part series on Medium:
+
+
+
+\- \[Part 1: Failure That Taught Me More Than Success](https://medium.com/bugbountywriteup/my-oscp-journey-part-1-failure-that-taught-me-more-than-success-09870c31e54d)
+
+\- \[Part 2: Success After Struggle — How I Cracked the OSCP](https://medium.com/bugbountywriteup/my-oscp-journey-part-2-success-after-struggle-how-i-cracked-the-oscp-cffa09914051)
+
+\- \[Part 3: Mind Over Root — The Psychology Behind the Pass](https://medium.com/bugbountywriteup/my-oscp-journey-part-3-mind-over-root-the-psychology-behind-the-pass-f4369be82a2c)
+
+
+
+Medium member paywall applies — the story/emotional version of the journey lives there. This site is the technical/reference version, free and open.
+
+
+
 \---
 
 
 
-\*Prepping right now? Hit me on \[Medium](https://medium.com/@cyberquestor) or \[email](mailto:cyberquestor.infosec@gmail.com). I answer every message from people grinding.\*
+\*Prepping right now? Hit me on \[email](mailto:cyberquestor.infosec@gmail.com). I answer every message.\*
 

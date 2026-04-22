@@ -14,16 +14,10 @@
     <loc>http://localhost:1313/tags/faq/</loc>
     <lastmod>2026-04-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/journey/</loc>
-    <lastmod>2026-04-20T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/oscp/lab-strategy/</loc>
     <lastmod>2026-04-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/labs/</loc>
-    <lastmod>2026-04-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/oscp/my-journey/</loc>
     <lastmod>2026-04-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/next-steps/</loc>
@@ -64,6 +58,8 @@
   </url><url>
     <loc>http://localhost:1313/oscp/mistakes/</loc>
     <lastmod>2026-04-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/oscp/my-journey/</loc>
   </url><url>
     <loc>http://localhost:1313/writeups/</loc>
   </url><url>
